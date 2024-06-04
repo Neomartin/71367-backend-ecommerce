@@ -1,0 +1,11 @@
+{
+  "name": "backend-ecommerce",
+  "version": "1.0.0",
+  "description": "EIT 71367 Backend ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
